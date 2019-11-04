@@ -14,46 +14,28 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdd", 
         "Elements", 
-        "inptUserState.json"
+        "btnAdd.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdd", 
         "Elements", 
-        "stateQuery.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "customerSelect", 
-        "Elements", 
-        "customerResults.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "customerSelect", 
-        "Elements", 
-        "btnSearch.json"
+        "lblResults.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 320, 
+  "designWidth": 460, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
-  "id": "customerSelect", 
+  "height": 320, 
+  "id": "customerAdd", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -72,5 +54,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 460
 }

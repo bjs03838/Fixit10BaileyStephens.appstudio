@@ -14,46 +14,55 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "inptUserState.json"
+        "inptOldName.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "stateQuery.json"
+        "inptNewName.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "customerResults.json"
+        "btnUpdateSubmit.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerUpdate", 
         "Elements", 
-        "btnSearch.json"
+        "txtResults1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerUpdate", 
+        "Elements", 
+        "txtResults2.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 320, 
+  "designWidth": 460, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
-  "id": "customerSelect", 
+  "height": 320, 
+  "id": "customerUpdate", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -72,5 +81,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 460
 }
