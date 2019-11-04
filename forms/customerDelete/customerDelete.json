@@ -14,46 +14,46 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerDelete", 
         "Elements", 
-        "inptUserState.json"
+        "btnSubmitDelete.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerDelete", 
         "Elements", 
-        "stateQuery.json"
+        "inptUserCustDelete.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerDelete", 
         "Elements", 
-        "customerResults.json"
+        "txtCustQueryDelete.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerDelete", 
         "Elements", 
-        "btnSearch.json"
+        "txtResults.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 320, 
+  "designWidth": 460, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
-  "id": "customerSelect", 
+  "height": 320, 
+  "id": "customerDelete", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -72,5 +72,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 460
 }
